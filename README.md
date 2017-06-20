@@ -51,13 +51,13 @@ Dokumentasi BaasBox
 -------------
 BaasBox adalah software open source yang bertujuan untuk mengurangi waktu development aplikasi, terutama pada bagian backend. BaasBox berdiri diatas Play framework (Java).
 ### Fitur tersedia
-1. Data storage.
+1. Data storage  
 Selain database management, BaasBox juga mendukung file management (upload dan download file) dan content management (misalnya dokumen).
-2. User management.
+2. User management  
 BaasBox menyediakan user management yang mengatur sign up, login, logout user yang terdaftar untuk setiap aplikasi. Namun hanya ada satu user (admin) yang dapat menggunakan BaasBox secara keseluruhan (**tidak mendukung multitenant**).
-3. Push notification.
+3. Push notification  
 Dapat mengirim push notification untuk iOS dan Android devices.
 
 ### Fitur tidak tersedia
-4. Social graph / Social network integration.
-5. Geolocation.
+4. Social graph / Social network integration  
+5. Geolocation  
